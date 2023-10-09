@@ -14,7 +14,7 @@ jobs:
 
       - name: Stop Containers
         if: always()
-        run: docker compose -f "docker-compose.yaml" down
+        run: docker compose -f docker-compose.yaml down
 
       - name: Deploy Web Server & App Server & Database
         run: docker compose -f ./docker-compose.yaml up -d
