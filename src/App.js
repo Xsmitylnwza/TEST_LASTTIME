@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React KUY!!!
+          Learn React KUY!!! KUYYAI HEEYAI
         </a>
         <p>ARAIWA TUMMAI MAIDAI</p>
       </header>
