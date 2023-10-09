@@ -18,7 +18,7 @@ function App() {
           Learn React KUY!!! MANGKODYAK EIEIEIEI
 
         </a>
-        <p>ARAIWA I SUS</p>
+        <p>LUNGTONG</p>
       </header>
     </div>
   );
