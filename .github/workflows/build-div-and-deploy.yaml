@@ -11,6 +11,9 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
+	
+      - name: Build Docker image KUYYY
+        run: docker-compose -f ./docker-compose.yaml build
 
       - name: Stop Containers
         if: always()
