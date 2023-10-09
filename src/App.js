@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React KUY!!! MANGKODYAK
+          Learn React KUY!!! MANGKODYAK EIEIEIEI
 
         </a>
         <p>ARAIWA I SUS</p>
