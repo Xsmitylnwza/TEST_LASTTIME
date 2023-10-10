@@ -23,14 +23,14 @@ jobs:
           node-version: "18"
 
       - name: Backend Install
-        run: npm ci
-        working-directory: ./backend
+        run: npm install
+        
 
       - name: Backend Lint
         run: npm run lint
-        working-directory: ./backend
+        
 
       - name: Build Node.js Project
         if: ${{ success() }}
         run: npm run build
-        working-directory: ./backend
+        
