@@ -16,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "eslint src/**/*.jsx --rules 'react/prop-types:off,no-unused-vars:warn'"
+    "lint": "eslint src/**/*.jsx --rule 'react/prop-types:off' --rule 'no-unused-vars:warn'"
   },
   "eslintConfig": {
     "extends": [
