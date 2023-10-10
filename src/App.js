@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href=""
+          href="www.google.com"
 
         >
           Learn React KUY!!! MANGKODYAK EIEIEIEI
