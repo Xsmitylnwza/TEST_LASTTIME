@@ -11,9 +11,8 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+          href="../public/lungtong.html"
+
         >
           Learn React KUY!!! MANGKODYAK EIEIEIEI
 
