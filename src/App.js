@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="./lungtong.html"
+          href=""
 
         >
           Learn React KUY!!! MANGKODYAK EIEIEIEI
